@@ -6,6 +6,9 @@ header,
 
 .menu {
   margin: 0 20px;
+  font-weight: bold;
+  font-size: 18px;
+  color: #5e6167;
 }
 
 .logo {
@@ -14,15 +17,83 @@ header,
 
 header {
   width: 100%;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
-  margin-top: 20px;
+  margin: 10px 0px;
 }
 
-button {
-  height: 30px;
+.chat {
+  height: 40px;
+  width: 6rem;
+  margin-left: 10px;
+  background-color: white;
+  border: solid #ccced5 1px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bold;
 }
 
-search {
-  height
+.search {
+  width: 300px;
+  border: none;
+  margin-left: 100px;
+  height: 40px;
+  background-color: #f2f3f6;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.search:focus {
+  outline: none;
+}
+
+.first {
+  display: flex;
+  justify-content: center;
+  background-color: #fffae0;
+  padding-left: 100px;
+  height: 800px;
+}
+
+* {
+  margin: 0;
+}
+
+.first-image {
+  width: 655px;
+  height: 800px;
+  background-color: #fffae0;
+  background-size: 804px 685px;
+  margin-left: 70px;
+}
+
+.first-title {
+  padding: 250px 0px 0px;
+  margin: 0px 0px 32px;
+  font-size: 54px;
+}
+
+.first-text {
+  color: #7c7c7c;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.download {
+  width: 180px;
+  height: 56px;
+  border-radius: 10px;
+  background-color: #ff6f0f;
+  color: white;
+  margin-left: 0px;
+  margin-right: 10px;
+  margin-top: 30px;
+  border: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.download-icon {
+  vertical-align: middle;
+  margin-right: 10px;
 }
