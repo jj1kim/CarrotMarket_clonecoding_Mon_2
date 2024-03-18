@@ -1,0 +1,28 @@
+header,
+.menu-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.menu {
+  margin: 0 20px;
+}
+
+.logo {
+  margin-left: 50px;
+}
+
+header {
+  width: 100%;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+}
+
+button {
+  height: 30px;
+}
+
+search {
+  height
+}
