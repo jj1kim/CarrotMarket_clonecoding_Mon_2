@@ -1,0 +1,12 @@
+.main SECOND .main-img-1 {
+  background-size: 655px 750px;
+  width: 655px;
+  height: 750px;
+}
+
+.main SECOND .main-text-1 {
+  font-weight: 700;
+  font-size: 18px;
+  color: #ff6f0f;
+  margin-bottom: 10px;
+}
