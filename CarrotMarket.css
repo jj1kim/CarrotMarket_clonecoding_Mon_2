@@ -306,3 +306,126 @@ address {
   opacity: 0.9;
   margin: 0;
 }
+
+.home-buttons {
+  margin-top: 3.2rem;
+  padding: 0;
+}
+
+.button-text {
+  background-color: #e9ecef;
+  color: #212529;
+  border: none;
+  border-radius: 6px;
+  padding: 12px 2rem;
+  display: inline-block;
+  margin-right: 10px;
+  line-height: 23.76px;
+  font-size: 18px;
+  font-weight: 700;
+  opacity: 0.9;
+  margin: 0;
+}
+
+.second-back {
+  background-color: #f9f9f9;
+}
+
+.second {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 1024px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.second-box-first,
+.second-image {
+  background-size: 655px 750px;
+  width: 650px;
+  height: 750px;
+  display: inline-block;
+}
+
+.fourth-back {
+  background-color: #f9f9f9;
+}
+
+.fourth {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 1024px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.fourth-box-first,
+.fourth-image {
+  background-size: 655px 750px;
+  width: 650px;
+  height: 750px;
+  display: inline-block;
+}
+
+.third-back {
+  background-color: #fff8f1;
+}
+
+.third {
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  width: 1024px;
+  margin: 0 auto;
+  justify-content: space-between;
+}
+
+.third-box-first,
+.third-image {
+  background-size: 655px 750px;
+  width: 650px;
+  height: 750px;
+  display: inline-block;
+}
+
+.home-story-list {
+  margin-top: 4rem;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+/* line 174, app/assets/stylesheets/home/home.scss */
+.home-story-list .home-story-list-item {
+  margin-right: 1rem;
+  margin-left: 0;
+  width: 124px;
+}
+
+/* line 178, app/assets/stylesheets/home/home.scss */
+.home-story-list .home-story-list-item:last-child {
+  margin-right: 0;
+}
+
+.home-story-list .icon-story {
+  width: 56px;
+  height: 56px;
+  background-size: 56px 56px;
+}
+
+.third-image-text {
+  font-size: 1.4rem !important;
+  line-height: 1.5;
+  font-weight: bold;
+  margin-top: 1.6rem;
+  margin-bottom: 0.8rem;
+}
+
+.item-desc {
+  font-weight: 400;
+  font-size: 13px;
+  color: #7c7c7c;
+  line-height: 17px;
+}
