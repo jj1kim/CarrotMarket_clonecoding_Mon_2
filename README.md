@@ -50,4 +50,7 @@
 </table>
 
 ## 프로젝트 뷰
-(완성 후 사진 첨부 예정)
+- https://jj1kim.github.io/CarrotMarket_clonecoding_Mon_2/ 로 배포되었습니다.
+<img src = "https://github.com/jj1kim/CarrotMarket_clonecoding_Mon_2/assets/134778013/e8518468-6c40-4712-9574-e28f6d6626df" width = "50%">
+<img src = "https://github.com/jj1kim/CarrotMarket_clonecoding_Mon_2/assets/134778013/2b029843-c156-4d97-9fd6-7aa59567c919" width = "50%">
+<img src = "https://github.com/jj1kim/CarrotMarket_clonecoding_Mon_2/assets/134778013/c7a07790-1040-46f7-9ebf-47929c2edfc1" width = "50%">
